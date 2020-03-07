@@ -1,5 +1,18 @@
-# 小巧的C语言版贪吃蛇
+# A small snake eater with C language
 
-该项目是业余时间花了半天做的一个小玩意，纯属娱乐。程序共500行左右，贪吃蛇运行速度快，无卡顿，内存消耗少。食物随机生成于地图中。
+## Why Make This
 
-snake.c文件可直接采用任意一款编译器编译运行试玩。
+To Kill time one day, I just downloaded a snake eater game from iphone AppStore and played for almost 5 hours. And I realised that maybe I can write this game with just C language, So I wrote this.
+
+## How to compile this code
+
+You can run 
+```bash
+./build.sh
+```
+to compile this code to a binary executable file, named Snake. And run
+```
+./Snake
+``` 
+in a Windows environment to play this game.
+
