@@ -6,13 +6,7 @@ To Kill time one day, I just downloaded a snake eater game from iphone AppStore 
 
 ## How to compile this code
 
-You can run 
-```bash
-./build.sh
-```
-to compile this code to a binary executable file, named Snake. And run
-```
-./Snake
-``` 
-in a Windows environment to play this game.
+You can open Snake.c in any C compiler within Windows environment and compile this code, and to play this game.
+
+Any questions to dongtuoc@yeah.net please.
 
